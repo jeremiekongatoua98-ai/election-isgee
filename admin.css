@@ -1,0 +1,12 @@
+.admin-tools{max-width:720px;padding:20px;margin:20px 0 34px;background:var(--paper)}
+.admin-tools h3{font:700 17px Manrope;margin:0 0 8px}
+.admin-tools p,.privacy-note{font-size:12px;line-height:1.7;color:var(--muted)}
+.admin-tools textarea{display:block;width:100%;padding:12px;border:1px solid var(--line);font:12px/1.7 monospace;resize:vertical;margin:13px 0}
+.admin-tools code{background:white;padding:2px 4px}
+.admin-tools .primary-btn{margin-right:14px}
+.admin-tools a{font-size:11px;color:var(--blue)}
+.admin-tools pre{white-space:pre-wrap;color:#29805f;font-size:11px}
+.privacy-note{max-width:700px;margin:20px 0}
+.admin-stats{flex-wrap:wrap}
+@media(max-width:700px){.admin-stats>div{min-width:0;flex:1;padding:15px}.admin-stats b{font-size:22px}}
+
